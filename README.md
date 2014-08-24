@@ -13,9 +13,10 @@ Update log:
 2014-07-28: initial version created;
 2014-08-20: rewritten as a function;
 
-===============================
+
 Bart van der Aa
 Division of Applied Acoustics
 Chalmers University of Technology
 www.ta.chalmers.se
 info@bartvanderaa.com
+===============================
